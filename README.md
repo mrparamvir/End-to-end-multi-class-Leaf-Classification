@@ -15,13 +15,13 @@ The data we're using is from Kaggle's Leaf Classification competition.
 
 https://www.kaggle.com/c/leaf-classification/data
 
-## 3. Evaluation
+## 3. Evaluation.
 
 The evaluation is a file with prediction probabilities for each leaf species of each test image.
 
 https://www.kaggle.com/c/leaf-classification/overview/evaluation
 
-## 4. Features
+## 4. Features.
 
 Some information about the data:
 * We're dealing with images (unstructured data) so it's probably best we use deep learning/transfer learning.
