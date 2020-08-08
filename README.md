@@ -15,7 +15,7 @@ The data we're using is from Kaggle's Leaf Classification competition.
 
 https://www.kaggle.com/c/leaf-classification/data
 
-## 3. Evaluation
+## 3. Evaluation.
 
 The evaluation is a file with prediction probabilities for each leaf species of each test image.
 
