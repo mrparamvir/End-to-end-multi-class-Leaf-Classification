@@ -9,7 +9,7 @@ This notebook builds an end-to-end multi class image classifier using TensorFlow
 Identifying the species of plants given an image of a leaf. 
 
 
-## 2. Data.
+## 2. Data
 
 The data we're using is from Kaggle's Leaf Classification competition.
 
