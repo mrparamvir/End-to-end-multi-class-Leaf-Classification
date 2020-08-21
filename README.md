@@ -4,7 +4,7 @@ Using binary leaf images and extracted features, including shape, margin and tex
 #  🍂🍁 End-to-end Multi-class Leaf Classification
 This notebook builds an end-to-end multi class image classifier using TensorFlow 2.0 and TensorFlow Hub.
 
-## 1. Problem.
+## 1. Problem
 
 Identifying the species of plants given an image of a leaf. 
 
