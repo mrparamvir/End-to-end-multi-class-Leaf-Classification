@@ -27,4 +27,3 @@ Some information about the data:
 * There are 99 species of plants (this means there are 99 different classes).
 * There are around 900+ images in the training set (these images have species).
 * There are around 500+ images in the test set (these images have no species, because we'll want to predict them).
-
